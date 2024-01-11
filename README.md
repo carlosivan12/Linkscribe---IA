@@ -19,7 +19,7 @@ Backend operation
 Fronted operation  made with React,the user can be anyone but the password must be 7 characters long
 </p>
 
-![linksccribe operation](README-image/linkscribe.gif)
+![linksccribe operation](README-IMAGE/linkscribe.gif)
 
 
 
