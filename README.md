@@ -8,14 +8,6 @@ It's operation is to perform web scraping and with that a classification is made
 </p>
 
 <p align="justify">
-Backend operation 
-</p>
-
-<p align="center">
-  <img src="README-image\url-linkscribe.PNG" alt="StepLast">
-</p>
-
-<p align="justify">
 Fronted operation  made with React,the user can be anyone but the password must be 7 characters long
 </p>
 
